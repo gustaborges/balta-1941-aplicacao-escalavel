@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Backoffice\Entities\" />
+    <Folder Include="Financial\Entities\" />
+    <Folder Include="StoreFront\Entities\" />
+  </ItemGroup>
+</Project>
